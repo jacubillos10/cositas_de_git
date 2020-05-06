@@ -13,3 +13,7 @@ Esta es una tarea de Laboratorio de Métodos Computacionales...
 # Acerca del autor
 
 ### Mi nombre es Alejandro y me gusta jugar micro
+
+# Acerca del Colaborador
+
+### Juan Camilo Sanchez nacio en Bogota en 1998. Estudia Geociencias e Ingenieria Civil. Le gusta jugar futbol.
