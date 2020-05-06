@@ -9,3 +9,7 @@ Esta es una tarea de Laboratorio de Métodos Computacionales...
 * lista
 
 ![LaImagen](https://en.wikipedia.org/wiki/Bogot%C3%A1#/media/File:Bogota_Skyline.jpg "Bogotá")
+
+# Acerca del autor
+
+### Mi nombre es Alejandro y me gusta jugar micro
